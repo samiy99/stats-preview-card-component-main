@@ -103,7 +103,7 @@ body {
 }
 
 .main__card {
-    max-width: 545px;
+    max-width: 400px;
     display: grid;
     background-color: var(--clr-secondary-400);
     border-radius: .5rem;
@@ -111,6 +111,7 @@ body {
 }
 
 .main__card__info {
+    font-family: ;
     padding: 2rem .955rem;
     display: grid;
     gap: 1rem;
@@ -128,6 +129,7 @@ span {
 
 p {
     color: var(--clr-neutral-100);
+    font-size: 15px;
 }
 
 .main__card__stats {
