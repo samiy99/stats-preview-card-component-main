@@ -98,7 +98,7 @@ body {
     font-size: .9rem;
     color: var(--clr-neutral-400);
     background-color: var(--clr-primary-700);
-    margin: 1rem;
+    margin: 5rem 1rem;
 
 }
 
@@ -108,6 +108,7 @@ body {
     background-color: var(--clr-secondary-400);
     border-radius: .5rem;
     overflow: hidden;
+    text-align: center
 }
 
 .main__card__info {
